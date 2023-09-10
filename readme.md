@@ -1,4 +1,5 @@
-![Logo](https://conasa.grupocibernos.com/hubfs/Cibernos%20Feb%202018/image/favicon-1.png)
+![Logo](https://www.grupocibernos.com/hs-fs/hubfs/cibernos_grupo_h.png?width=709&height=284&name=cibernos_grupo_h.png)
+
 
 
 # Prueba Técnica :bookmark_tabs:
