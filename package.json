@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^17.2.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "axios": "^1.5.0",
+    "cypress": "^12.13.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "name": "prueba-cibernos",
+  "version": "1.0.0",
+  "description": "Prueba Cibernos",
+  "main": "index.js",
+  "scripts": {
+    "cypress:runner": "cypress open --e2e --browser Chrome",
+    "cypress:execution": "cypress run --spec cypress/e2e/features/*"
+  },
+  "keywords": [
+    "Prueba",
+    "QA",
+    "Cibernos",
+    "Cypress"
+  ],
+  "author": "Camilo Nuñez",
+  "license": "ISC"
+}
