@@ -16,7 +16,9 @@ Esta es la solución de la prueba técnica asignada por la empresa Cibernos Grou
 ## Requisitos Previos
 
 Node.js (versión recomendada).
+
 Install Cypress.
+
 Install axios.
 
 ## Configuración del Proyecto.

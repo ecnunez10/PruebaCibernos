@@ -2,6 +2,8 @@ const axios = require('axios');
 
 const BASE_URL = 'https://petstore.swagger.io/v2';
 
+//Creación de usuario y recuperación de sus datos. 
+
 async function createUserAndFetch() {
     const user = {
         id: Date.now(),
@@ -25,6 +27,7 @@ async function createUserAndFetch() {
 
 createUserAndFetch();
 
+//Lista para identificar los nombres de las mascotas que se hayan vendido. 
 
 async function listPetsSold() {
     try {
@@ -38,6 +41,7 @@ async function listPetsSold() {
     }
 }
 
+//Clase para identificar cuantas mascotas se llaman igual. 
 
 class PetsList {
     constructor(pets) {
